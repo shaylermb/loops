@@ -5,6 +5,10 @@ public class loops {
 			System.out.println(x);
 			x++;
 		}
+		for (int i=1; i <=100; i++) {
+			System.out.println(x);
+			
+		}
 
 	}
 	
